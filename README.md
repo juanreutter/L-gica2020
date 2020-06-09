@@ -1,2 +1,2 @@
-# L-gica2020
+# Lógica2020
 para postear issues de logica
